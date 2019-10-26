@@ -1,0 +1,26 @@
+.g button{
+  width: 170px;
+
+
+}
+select{
+  width: 70%;
+  margin-bottom: 20px ;
+
+}
+.firstInput{
+  margin-bottom: 20px;
+}
+li{
+  list-style-type: none;
+}
+.lastItems{
+  margin-top: 20px;
+  display: flex;
+}
+.ul1 li:hover{
+  color: green;
+}
+.ul2 li:hover{
+  color: forestgreen;
+}
